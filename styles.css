@@ -1,0 +1,54 @@
+h1 {
+    font-size: 32px;
+    text-align: center;
+    color: darkcyan;
+}
+
+h2 {
+    font-size: 24px;
+    color: rgb(44, 154, 156);
+}
+
+a {
+    color: rgb(21, 152, 185);
+    text-decoration: rgb(27, 109, 112);
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+blockquote {
+    font-style: italic;
+    background-color: rgb(133, 157, 201);
+    border-left: 4px solid #0077b7;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color: rgb(172, 180, 196);
+    color: aliceblue;
+}
+
+dt {
+    font-weight: bold;
+    font-size: 18px;
+    color: azure;
+}
+
+dd {
+    font-size: 16px;
+}
+
+table {
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #000000;
+}
+
+th {
+    background-color: rgb(16, 158, 158);
+}
